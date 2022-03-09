@@ -24,3 +24,11 @@ To reproduce the figures in the publication, follow these steps:
 5. Edit `countwords.py` and `plotcounts.py` to replace `frankenstein` with `dracula`.
 
 6. Repeat the above instructions to generate `dracula.csv` and plot `dracula.pdf`.
+
+Updated
+
+To reproduce the figures in the publication, run the command:
+
+    bash bin/run_analysis.sh
+
+Results will be placed in a `results/` directory.
